@@ -10,4 +10,9 @@ console.log("hello world");
 // console.log(address);
 
 let fun = null;
-co
+console.log(fun);
+
+/* Data Type in javascript*/
+// primitive and non primitive
+
+
